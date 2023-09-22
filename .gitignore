@@ -1,3 +1,14 @@
+.idea
+.venv
+.vscode
+venv/
+/.vs
+.DS_Store
+/midstream/enrich_zone/apo-report-refresh/apo-weekly
+/midstream/enrich_zone/biofuel-cs-b/b2b-contract-price
+
+
 # Bazel
 .user.bazelrc
 bazel-*
+~                                                          
